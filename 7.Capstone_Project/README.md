@@ -2,7 +2,7 @@ In this project, the topics covered:
 
   Using MS Excel to obtain data from various sources and then clean, transform, and load the data for further analysis.
 		    
-		    Prepare the sales data worksheet to ensure accuracy before integration into Power BI.
+		Prepare the sales data worksheet to ensure accuracy before integration into Power BI.
 
     		Understand the components of the sales data, such as individual sales per day and the corresponding gross amount.
 
@@ -22,7 +22,7 @@ In this project, the topics covered:
 
     		Construct a snowflake schema tailored for the data model.
 
-   		  Establish and specify the relationships between various tables in the data model.
+   		Establish and specify the relationships between various tables in the data model.
 
     		Define a dedicated calendar table for temporal data analysis and reporting.
 
@@ -30,7 +30,7 @@ In this project, the topics covered:
 
   Creating model calculations using DAX and optimizing model performance
    
- 		    Create time-based summaries for displaying quarterly, annual, and year-to-date profit data.
+ 		Create time-based summaries for displaying quarterly, annual, and year-to-date profit data.
 
     		Determine median sales volume to assess Tailwind Traders' performance stability.
 
